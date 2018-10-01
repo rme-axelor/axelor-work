@@ -1,0 +1,3 @@
+[submodule "abs-webapp"]
+	path = abs-webapp
+	url = git@github.com:rme-axelor/abs-webapp.git
